@@ -1,0 +1,5 @@
+pip
+psycopg2
+flask
+flask-restful
+gunicorn
